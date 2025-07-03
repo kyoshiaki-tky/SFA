@@ -1,1 +1,1 @@
-In this folder, html files (raw output) by SFA (un-refactored) analyses are stored.
+In this folder, jupyter notebools with html files (raw output) by SFA (un-refactored) analysis examples are stored.
