@@ -1,0 +1,1 @@
+In this folder, html files (raw output) by SFA (un-refactored) analyses are stored.
